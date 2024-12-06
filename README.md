@@ -1,6 +1,11 @@
 
 <h2 align="left">Hi 👋! My name Farriel and I'm a Student, from University of Muhammadiyah Malang</h2>
 
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/reddishowo/reddishowo/main/reddishowo.png" alt="reddishowo image" />
+</div>
+
 ###
 
 <div align="left">
