@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name Farriel and I'm a Student, from University of Muhammadiyah Malang</h2>
+<h2 align="left">Hi ! My name Farriel and I'm a Student, from University of Muhammadiyah Malang</h2>
 
 
 <div align="left">
@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left"> 🛠️ Language and Tools.</h3>
+<h3 align="left">  Language and Tools.</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left"> 🌐 Socials. </h3>
+<h3 align="left"> Socials. </h3>
 
 
 ###
