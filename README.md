@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi ! My name Farriel and I'm a Student, from University of Muhammadiyah Malang</h2>
+<h2 align="left">Hi ! My name is Farriel and I'm a Student from University of Muhammadiyah Malang</h2>
 
 
 <div align="left">
